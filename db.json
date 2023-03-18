@@ -1,0 +1,102 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "bruce"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clarke"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Pricess"
+    },
+    {
+      "name": "spider",
+      "alterEgo": "spiderman",
+      "id": 4
+    },
+    {
+      "name": "shazam",
+      "alterEgo": "Billy Batson",
+      "id": 5
+    },
+    {
+      "name": "sss",
+      "alterEgo": "aasa",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Shan"
+    },
+    {
+      "id": 2,
+      "name": "Yogi"
+    },
+    {
+      "id": 3,
+      "name": "Mugam"
+    }
+  ],
+  "users": [
+    {
+      "id": "shan@gmail.com",
+      "channelId": "Shanmugam"
+    }
+  ],
+  "channels": [
+    {
+      "id": "Shanmugam",
+      "courses": [
+        "React",
+        "Angular",
+        "Vue"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "Green"
+    },
+    {
+      "id": 3,
+      "label": "Black"
+    },
+    {
+      "id": 4,
+      "label": "Yellow"
+    },
+    {
+      "id": 5,
+      "label": "Blue"
+    },
+    {
+      "id": 6,
+      "label": "Orange"
+    },
+    {
+      "id": 7,
+      "label": "Cyan"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    },
+    {
+      "id": 9,
+      "label": "violet"
+    }
+  ]
+}
